@@ -34,9 +34,6 @@ It takes into account leap years and different calendar systems to ensure precis
     Alternatively, use a local server to view the project. <br>
     For example, with Live Server in Visual Studio Code, right-click index.html and select "Open with Live Server."
 
-<h3>Acknowledgements</h3>
-    Inspired by Amazon's user interface design.<br>
-    Icons and resources are sourced from Font Awesome and Google Material Icons.
 
 <h3>Contact</h3>
     For any questions or feedback, you can reach out to:
